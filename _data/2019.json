@@ -238,6 +238,22 @@
       }
 
     },
+    {
+      "metadata": {
+        "country_code": "JP",
+        "location": "Roppongi, Tokyo",
+        "title": "ng-japan",
+        "date": "13",
+        "logo": "ngjapan.svg",
+        "type": "conference",
+        "desc": "ng-japan is the largest Angular conference in Japan. It'll have talks with great speakers, including the Angular core team from Google."
+      },
+      "links": {
+        "web": "https://ngjapan.org/",
+        "twitter": "ng_japan"
+      }
+
+    },
       {
       "metadata": {
         "country_code": "US",
