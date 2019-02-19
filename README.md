@@ -33,7 +33,7 @@ Use the guide below to add your own event to the correct month inside the above 
     // Town or City
     "location": "Ghent",
     // Conference / Event name
-    "title": "ngBE",
+    "title": "NG-BE",
     // Date of Event
     "date": "06-07",
     // Your event logo (for best results use SVG)
@@ -49,7 +49,7 @@ Use the guide below to add your own event to the correct month inside the above 
     // Your event website
     "web": "https://ng-be.org",
     // Twitter handle (don't include @)
-    "twitter": "ngBE"
+    "twitter": "ngbeconf"
   }
 }
 ```
