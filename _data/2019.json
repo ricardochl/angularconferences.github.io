@@ -138,7 +138,22 @@
         "web": "https://angular.fi/2019",
         "twitter": "angularFI"
       }
-    }
+    },
+    {
+  "metadata": {
+    "country_code": "HN",
+    "location": "Tegucigalpa",
+    "title": "Angular + Truffle = Dapps",
+    "date": "09",
+    "logo": "nges.svg",
+    "type": "workshop",
+    "desc": "Ng-Es 2019 is Angular workshop for teach about benefits of use angular to make scalable projects and dapps using ethereum and truffle and the best content in spanish soon in english and russian 😉😉 ."
+  },
+  "links": {
+    "web": "https://medium.com/ngesyfirebase",
+    "twitter": "NgEs20"
+  }
+}
   ],
   "April": [],
   "May": [
