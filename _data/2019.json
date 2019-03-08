@@ -320,6 +320,21 @@
         "web": "https://www.ngspain.com/",
         "twitter": "ngSpain"
       }
+    },
+    {
+      "metadata": {
+        "country_code": "IT",
+        "location": "Rome",
+        "title": "NGRome",
+        "date": "07",
+        "logo": "ngrome.svg",
+        "type": "conference",
+        "desc": "For the first time ever, the biggest Italian Angular Conference is taking place at NG Rome MMXIX, this year on October 7th at the Teatro Manzoni in Rome, Italy"
+      },
+      "links": {
+        "web": "https://ngrome.io",
+        "twitter": "ngromeconf"
+      }
     }
   ],
   "November": [ 
