@@ -153,7 +153,22 @@
     "web": "https://medium.com/ngesyfirebase",
     "twitter": "NgEs20"
   }
-}
+},
+    {
+      "metadata": {
+        "country_code": "TR",
+        "location": "Istanbul",
+        "title": "NG Turkey Meetup",
+        "date": "30",
+        "logo": "ngTurkey.svg",
+        "type": "meetup",
+        "desc": "NG Turkey Meetup is a monthly event full of Angular and technologies around it. This month's topics are \"Angular CLI: The Hidden Force in Your Terminal\" and \"Implementing Atomic Design Principles in Angular Applications\"."
+      },
+      "links": {
+        "web": "https://www.meetup.com/ngturkey/events/259500889/",
+        "twitter": "ngTurkiye"
+      }
+    }
   ],
   "April": [
     {
