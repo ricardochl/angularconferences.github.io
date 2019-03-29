@@ -182,7 +182,7 @@
         "desc": "Angular is one of the most popular front-end frameworks and has a massive and active community around the world. The new version of Angular is here to stay and we want to build a community in Athens in order to explore the huge ecosystem around this framework, learn new things and share our knowledge and best practices about Angular and front end development in general. This meetup is for both newbies and experienced developers who want to be part of this community. We organize regularly scheduled meetings and of course we are open to new ideas for talks, for presenters and volunteers."
       },
       "links": {
-        "web": "https://www.meetup.com/Angular-Athens/",
+        "web": "https://www.meetup.com/Angular-Athens/events/259924237/",
         "twitter": "AthensAngular"
       }
     }
@@ -315,6 +315,21 @@
         "meetup": "https://www.meetup.com/Angular-Lunch/",
         "twitter": "Angular_Lunch"
       }
+    },
+    {
+      "metadata": {
+        "country_code": "GR",
+        "location": "Athens",
+        "title": "Angular Athens",
+        "date": "02",
+        "logo": "angularathens.png",
+        "type": "meetup",
+        "desc": "Angular is one of the most popular front-end frameworks and has a massive and active community around the world. The new version of Angular is here to stay and we want to build a community in Athens in order to explore the huge ecosystem around this framework, learn new things and share our knowledge and best practices about Angular and front end development in general. This meetup is for both newbies and experienced developers who want to be part of this community. We organize regularly scheduled meetings and of course we are open to new ideas for talks, for presenters and volunteers."
+      },
+      "links": {
+        "web": "TBA",
+        "twitter": "AthensAngular"
+      }
     }
   ],
   "August": [
@@ -348,6 +363,21 @@
       "links": {
         "web": "https://ngtalks.io/",
         "twitter": "ngTalks_ua"
+      }
+    },
+    {
+      "metadata": {
+        "country_code": "GR",
+        "location": "Athens",
+        "title": "Angular Athens",
+        "date": "17",
+        "logo": "angularathens.png",
+        "type": "meetup",
+        "desc": "Angular is one of the most popular front-end frameworks and has a massive and active community around the world. The new version of Angular is here to stay and we want to build a community in Athens in order to explore the huge ecosystem around this framework, learn new things and share our knowledge and best practices about Angular and front end development in general. This meetup is for both newbies and experienced developers who want to be part of this community. We organize regularly scheduled meetings and of course we are open to new ideas for talks, for presenters and volunteers."
+      },
+      "links": {
+        "web": "TBA",
+        "twitter": "AthensAngular"
       }
     }
   ],
@@ -412,6 +442,21 @@
       "links": {
         "web": "https://ng-be.org/",
         "twitter": "ngbeconf"
+      }
+    },
+    {
+      "metadata": {
+        "country_code": "GR",
+        "location": "Athens",
+        "title": "Angular Athens",
+        "date": "03",
+        "logo": "angularathens.png",
+        "type": "meetup",
+        "desc": "Angular is one of the most popular front-end frameworks and has a massive and active community around the world. The new version of Angular is here to stay and we want to build a community in Athens in order to explore the huge ecosystem around this framework, learn new things and share our knowledge and best practices about Angular and front end development in general. This meetup is for both newbies and experienced developers who want to be part of this community. We organize regularly scheduled meetings and of course we are open to new ideas for talks, for presenters and volunteers."
+      },
+      "links": {
+        "web": "TBA",
+        "twitter": "AthensAngular"
       }
     }
   ]
