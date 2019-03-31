@@ -185,6 +185,21 @@
         "web": "https://www.meetup.com/Angular-Athens/events/259924237/",
         "twitter": "AthensAngular"
       }
+    },
+    	    {
+      "metadata": {
+        "country_code": "CA",
+        "location": "Québec",
+        "title": "Académie Angular",
+        "date": "17-18",
+        "logo": "angular-academy.svg",
+        "type": "workshop",
+        "desc": "Académie Angular est un Workshop intensif de 2 jours pour les développeurs web professionnels! Apprendre Angular 7 et TypeScript Maintenant à Québec avec cette formation immersive en classe avec instructeur!"
+      },
+      "links": {
+        "web": "https://angular.ac/fr",
+        "twitter": "AngularAcademy"
+      }
     }
   ],
   "May": [
@@ -201,6 +216,66 @@
       "links": {
         "web": "https://www.ng-conf.org/",
         "twitter": "ngconf"
+      }
+    },
+		    {
+      "metadata": {
+        "country_code": "CA",
+        "location": "Montréal",
+        "title": "Académie Angular",
+        "date": "09-10",
+        "logo": "angular-academy.svg",
+        "type": "workshop",
+        "desc": "Académie Angular est un Workshop intensif de 2 jours pour les développeurs web professionnels! Apprendre Angular 7 et TypeScript Maintenant à Montréal avec cette formation immersive en classe avec instructeur!"
+      },
+      "links": {
+        "web": "https://angular.ac/fr",
+        "twitter": "AngularAcademy"
+      }
+    },
+	{
+      "metadata": {
+        "country_code": "CA",
+        "location": "Montréal",
+        "title": "Académie Angular Avancé",
+        "date": "13",
+        "logo": "angular-academy.svg",
+        "type": "workshop",
+        "desc": "Académie Angular Avancé est un Workshop intensif de 1 jour pour les développeurs web professionnels! Apprendre des sujets avancés tels que NgRx maintenant à Montréal avec cette formation immersive en classe avec instructeur!"
+      },
+      "links": {
+        "web": "https://angular.ac/fr",
+        "twitter": "AngularAcademy"
+      }
+    },
+		{
+      "metadata": {
+        "country_code": "FR",
+        "location": "Paris",
+        "title": "Académie Angular",
+        "date": "23-24",
+        "logo": "angular-academy.svg",
+        "type": "workshop",
+        "desc": "Académie Angular est un Workshop intensif de 2 jours pour les développeurs web professionnels! Apprendre Angular 8 et TypeScript Maintenant à Paris avec cette formation immersive en classe avec instructeur!"
+      },
+      "links": {
+        "web": "https://angular.ac/paris",
+        "twitter": "AngularAcademy"
+      }
+    },
+	    {
+      "metadata": {
+        "country_code": "DK",
+        "location": "Copenhagen",
+        "title": "Angular Academy @ngVikings",
+        "date": "26",
+        "logo": "angular-academy.svg",
+        "type": "workshop",
+        "desc": "Angular Academy is a full day intensive coding workshop for professional web developers! Learn Angular 8 and TypeScript Now in Copenhagen with this immersive instructor-led classroom training!"
+      },
+      "links": {
+        "web": "https://angular.ac/ngVikings2019",
+        "twitter": "AngularAcademy"
       }
     },
     {
@@ -220,6 +295,21 @@
     }
   ],
   "June": [
+    	    {
+      "metadata": {
+        "country_code": "DO",
+        "location": "Santo Domingo",
+        "title": "Angular Academy",
+        "date": "03-04",
+        "logo": "angular-academy.svg",
+        "type": "workshop",
+        "desc": "Angular Academy is a 3-day intensive coding workshop for web developers! Learn Angular 8 and TypeScript Now in Santo Domingo with this immersive instructor-led classroom training!"
+      },
+      "links": {
+        "web": "https://angular.ac/SantoDomingo",
+        "twitter": "AngularAcademy"
+      }
+    },
     {
       "metadata": {
         "country_code": "IT",
