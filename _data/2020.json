@@ -1,0 +1,32 @@
+{
+  "January": [
+
+  ],
+  "February": [
+    {
+      "metadata": {
+        "country_code": "US",
+        "location": "Atlanta",
+        "title": "ngAtlanta",
+        "date": "17-21",
+        "logo": "ngatl.svg",
+        "type": "conference",
+        "desc": "3nd annual Angular conference in Atlanta, GA. \"You Can Sit With Us\""
+      },
+      "links": {
+        "web": "https://ng-atl.org/",
+        "twitter": "ngAtlanta"
+      }
+    }
+  ],
+  "March": [],
+  "April": [],
+  "May": [],
+  "June": [],
+  "July": [],
+  "August": [],
+  "September": [],
+  "October": [],
+  "November": [],
+  "December": []
+}
