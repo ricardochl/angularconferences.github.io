@@ -168,6 +168,21 @@
         "web": "https://www.meetup.com/ngturkey/events/259500889/",
         "twitter": "ngTurkiye"
       }
+    },
+    {
+      "metadata": {
+        "country_code": "CR",
+        "location": "San José",
+        "title": "Angular Costa Rica Meetup",
+        "date": "23",
+        "logo": "angular-costarica.svg",
+        "type": "meetup",
+        "desc": "Angular Costa Rica is a community that started two months ago. We're having our 2nd event, this time we've an international guess. Topics: \"Advance Directives\" and \"Routing, Lazy loading resolver and guards\""
+      },
+      "links": {
+        "web": "https://www.meetup.com/gdg-costarica/events/260293789",
+        "twitter": "https://twitter.com/AngularCR"
+      }
     }
   ],
   "April": [
