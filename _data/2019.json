@@ -531,7 +531,8 @@
         "web": "https://ngrome.io",
         "twitter": "ngromeconf"
       }
-    } {
+    },
+    {
       "metadata": {
         "country_code": "HN",
         "location": "San Pedro Sula",
