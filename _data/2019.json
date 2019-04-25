@@ -89,7 +89,7 @@
       },
       "links": {
         "web": "http://www.ng-ind.com/",
-        "twitter": "geeknineseven" 
+        "twitter": "geeknineseven"
       }
     },
     {
@@ -214,6 +214,21 @@
       "links": {
         "web": "https://www.meetup.com/gdg-costarica/events/260293789",
         "twitter": "https://twitter.com/AngularCR"
+      }
+    },
+    {
+      "metadata": {
+        "country_code": "HN",
+        "location": "Tegucigalpa",
+        "title": "The Future of Web apps using blockchain and Angular",
+        "date": "26",
+        "logo": "nges.svg",
+        "type": "workshop",
+        "desc": "Ng-Es 2019 is Angular workshop in honduras during the tech event Honducamp."
+      },
+      "links": {
+        "web": "https://medium.com/ngesyfirebase",
+        "twitter": "NgEs20"
       }
     }
   ],
@@ -532,7 +547,7 @@
       }
     }
   ],
-  "November": [ 
+  "November": [
     {
       "metadata": {
         "country_code": "TW",
@@ -543,7 +558,7 @@
         "type": "conference",
         "desc": "Angular Taiwan is an Angular community in Taiwan. We are welcome anyone to join us, and feel free to post and share any articles, courses, videos or any discussion that related to Angular."
       },
-      "links": {        
+      "links": {
       }
     }
   ],
