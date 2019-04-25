@@ -390,6 +390,22 @@
     },
     {
       "metadata": {
+        "country_code": "DE",
+        "location": "Heidelberg",
+        "title": "#ngHeidelberg v6 – Angular Heidelberg Meetup",
+        "date": "04",
+        "logo": "ngHeidelberg.svg",
+        "type": "meetup",
+        "desc": "Free coffee, pizza and a special guest. Heidelberg's 6th Angular meetup is coming. 🚀Join us for a great talk 🗣️\"Angular Performance: Your App at the Speed of Light\", community updates and networking 🤝. Our speaker and special guest is Christian Liebel who was awarded with the Microsoft MVP title."
+      },
+      "links": {
+        "web": "https://angular-heidelberg.de/",
+        "twitter": "ngHeidelberg"
+      }
+
+    },
+    {
+      "metadata": {
         "country_code": "MY",
         "location": "Kuala Lumpur",
         "title": "NG-MY",
