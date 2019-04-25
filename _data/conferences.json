@@ -38,5 +38,10 @@
     "name": "ngPoland",
     "href": "http://ng-poland.pl/",
     "img": "ngpoland.svg"
+  },
+    {
+    "name": "NG Honduras",
+    "href": "https://ng-honduras.org",
+    "img": "ng-honduras.svg"
   }
 ]
