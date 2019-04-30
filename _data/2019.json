@@ -342,6 +342,21 @@
     },
     {
       "metadata": {
+        "country_code": "DE",
+        "location": "Heidelberg",
+        "title": "Angular.Schule",
+        "date": "04-07",
+        "logo": "angular.schule.svg",
+        "type": "workshop",
+        "desc": "Angular onsite training and public workshops from the authors of the German Angular book. In June we have another public workshop in Heidelberg. In 4 days we will teach you everything you need to know about Angular, RxJS and NgRx. (in German language)"
+      },
+      "links": {
+        "web": "https://angular.schule/schulungen/heidelberg",
+        "twitter": "angular_schule"
+      }
+    },
+    {
+      "metadata": {
         "country_code": "IT",
         "location": "Verona",
         "title": "Angular Day",
