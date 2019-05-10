@@ -372,6 +372,21 @@
     },
     {
       "metadata": {
+        "country_code": "UA",
+        "location": "Kyiv",
+        "title": "Angular In Depth Conf",
+        "date": "15",
+        "logo": "aid_conf.svg",
+        "type": "conference",
+        "desc": "The first and only conference in Kyiv dedicated to the best practices and trends of Angular."
+      },
+      "links": {
+        "web": "https://angular-in-depth.org/",
+        "twitter": "AngularInDepth"
+      }
+    },
+    {
+      "metadata": {
         "country_code": "LK",
         "location": "Colombo",
         "title": "ngSriLanka",
