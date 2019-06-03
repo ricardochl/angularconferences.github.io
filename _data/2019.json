@@ -545,6 +545,21 @@
         "web": "TBA",
         "twitter": "AthensAngular"
       }
+    },
+    {
+      "metadata": {
+        "country_code": "GB",
+        "location": "London",
+        "title": "Angular Connect",
+        "date": "19-20",
+        "logo": "angularconect.svg",
+        "type": "conference",
+        "desc": "AngularConnect is Europe’s largest Angular conference - meet the Angular team, supercharge your apps, connect with the community, learn new skills & so much more!. You'll enjoy keynotes, live coding sessions, technical deep dives, hands-on mini-workshops & more, covering topics including Angular Ivy, performance, tooling, authentication, security, testing, accessibility, PWAs, & NgRx."
+      },
+      "links": {
+        "web": "https://www.angularconnect.com/?utm_source=angularconferences&utm_medium=referral&utm_campaign=listing",
+        "twitter": "angularconnect"
+      }
     }
   ],
   "October": [
