@@ -89,7 +89,7 @@
       },
       "links": {
         "web": "http://www.ng-ind.com/",
-        "twitter": "geeknineseven" 
+        "twitter": "geeknineseven"
       }
     },
     {
@@ -215,6 +215,21 @@
         "web": "https://www.meetup.com/gdg-costarica/events/260293789",
         "twitter": "https://twitter.com/AngularCR"
       }
+    },
+    {
+      "metadata": {
+        "country_code": "HN",
+        "location": "Tegucigalpa",
+        "title": "The Future of Web apps using blockchain and Angular",
+        "date": "26",
+        "logo": "nges.svg",
+        "type": "workshop",
+        "desc": "Ng-Es 2019 is Angular workshop in honduras during the tech event Honducamp."
+      },
+      "links": {
+        "web": "https://medium.com/ngesyfirebase",
+        "twitter": "NgEs20"
+      }
     }
   ],
   "May": [
@@ -327,6 +342,21 @@
     },
     {
       "metadata": {
+        "country_code": "DE",
+        "location": "Heidelberg",
+        "title": "Angular.Schule",
+        "date": "04-07",
+        "logo": "angular.schule.svg",
+        "type": "workshop",
+        "desc": "Angular onsite training and public workshops from the authors of the German Angular book. In June we have another public workshop in Heidelberg. In 4 days we will teach you everything you need to know about Angular, RxJS and NgRx. (in German language)"
+      },
+      "links": {
+        "web": "https://angular.schule/schulungen/heidelberg",
+        "twitter": "angular_schule"
+      }
+    },
+    {
+      "metadata": {
         "country_code": "IT",
         "location": "Verona",
         "title": "Angular Day",
@@ -338,6 +368,21 @@
       "links": {
         "web": "http://angularday.it/",
         "twitter": "angularday"
+      }
+    },
+    {
+      "metadata": {
+        "country_code": "UA",
+        "location": "Kyiv",
+        "title": "Angular In Depth Conf",
+        "date": "15",
+        "logo": "aid_conf.svg",
+        "type": "conference",
+        "desc": "The first and only conference in Kyiv dedicated to the best practices and trends of Angular."
+      },
+      "links": {
+        "web": "https://angular-in-depth.org/",
+        "twitter": "AngularInDepth"
       }
     },
     {
@@ -370,6 +415,22 @@
       "links": {
         "web": "http://angulardenver.com/",
         "twitter": "AngularDenver"
+      }
+
+    },
+    {
+      "metadata": {
+        "country_code": "DE",
+        "location": "Heidelberg",
+        "title": "#ngHeidelberg v6 – Angular Heidelberg Meetup",
+        "date": "04",
+        "logo": "ngHeidelberg.svg",
+        "type": "meetup",
+        "desc": "Free coffee, pizza and a special guest. Heidelberg's 6th Angular meetup is coming. 🚀Join us for a great talk 🗣️\"Angular Performance: Your App at the Speed of Light\", community updates and networking 🤝. Our speaker and special guest is Christian Liebel who was awarded with the Microsoft MVP title."
+      },
+      "links": {
+        "web": "https://angular-heidelberg.de/",
+        "twitter": "ngHeidelberg"
       }
 
     },
@@ -460,7 +521,7 @@
         "country_code": "UA",
         "location": "Kharkov",
         "title": "ngTalks",
-        "date": "TBC",
+        "date": "7-8",
         "logo": "ngtalks.svg",
         "type": "conference",
         "desc": "Join us in a quest of developing a brighter Angular community, attend NgTalks, the first of many conference dedicated to latest and greatest news and insights from the global Angular network, covering best practices, approaches and cutting-edge trends."
@@ -483,6 +544,21 @@
       "links": {
         "web": "TBA",
         "twitter": "AthensAngular"
+      }
+    },
+    {
+      "metadata": {
+        "country_code": "GB",
+        "location": "London",
+        "title": "Angular Connect",
+        "date": "19-20",
+        "logo": "angularconect.svg",
+        "type": "conference",
+        "desc": "AngularConnect is Europe’s largest Angular conference - meet the Angular team, supercharge your apps, connect with the community, learn new skills & so much more!. You'll enjoy keynotes, live coding sessions, technical deep dives, hands-on mini-workshops & more, covering topics including Angular Ivy, performance, tooling, authentication, security, testing, accessibility, PWAs, & NgRx."
+      },
+      "links": {
+        "web": "https://www.angularconnect.com/",
+        "twitter": "angularconnect"
       }
     }
   ],
@@ -516,7 +592,8 @@
         "web": "https://ngrome.io",
         "twitter": "ngromeconf"
       }
-    } {
+    },
+    {
       "metadata": {
         "country_code": "HN",
         "location": "San Pedro Sula",
@@ -532,7 +609,7 @@
       }
     }
   ],
-  "November": [ 
+  "November": [
     {
       "metadata": {
         "country_code": "TW",
@@ -543,7 +620,7 @@
         "type": "conference",
         "desc": "Angular Taiwan is an Angular community in Taiwan. We are welcome anyone to join us, and feel free to post and share any articles, courses, videos or any discussion that related to Angular."
       },
-      "links": {        
+      "links": {
       }
     }
   ],
